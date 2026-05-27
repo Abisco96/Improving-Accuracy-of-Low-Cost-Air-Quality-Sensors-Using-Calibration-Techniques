@@ -149,7 +149,10 @@ This project shows that:
 pip install -r requirements.txt
 
 # Run analysis notebook
-jupyter notebook
+[Updated Low-cost Air Quality Sensor Calibration to improve their data quality.ipynb](https://github.com/Abisco96/Improving-Accuracy-of-Low-Cost-Air-Quality-Sensors-Using-Calibration-Techniques/blob/main/Updated%20Low-cost%20Air%20Quality%20Sensor%20Calibration%20to%20improve%20their%20data%20quality.ipynb)
+
+## 🖼 Demo
+https://drive.google.com/file/d/12q_E3AJbOoQqVGMTiYqINQUerdcoG31U/view?usp=sharing
 
 ## 👩🏽‍💻 Author
 Abigail Frimpong
