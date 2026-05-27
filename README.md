@@ -110,8 +110,10 @@ pip install -r requirements.txt
 
 # Run analysis notebook
 jupyter notebook
-
+```
+---
 ## 📂 Repository Structure
+```bash
 ├── node_3/
 │   ├── low_cost/
 │   ├── mid_cost/
@@ -124,7 +126,7 @@ jupyter notebook
 ├── deployment_details.csv
 ├── sensor_specifications.csv
 └── README.md
-
+```
 ##  📊 Example Analysis
 Correlation matrices across sensor types
 Time-series comparisons (low vs reference)
@@ -135,8 +137,11 @@ Cross-node validation (generalisation testing)
 Most air quality systems rely on expensive reference stations.
 
 This project shows that:
+
 ➡️ Low-cost sensors can be reliable with calibration
+
 ➡️ Cities can deploy scalable and affordable monitoring networks
+
 ➡️ Data + ML + IoT = real-world impact
 
 
@@ -148,9 +153,11 @@ jupyter notebook
 
 ## 👩🏽‍💻 Author
 Abigail Frimpong
+
 MSc Graduate – IoT & Data Analytics
 
 Passionate about IoT, Data Science, and Smart Cities
+
 Interested in Software Engineering, Data, and Embedded Systems roles
 
 ## ⭐ Final Note
@@ -158,8 +165,12 @@ Interested in Software Engineering, Data, and Embedded Systems roles
 This project demonstrates a unique combination of:
 
 Real-world IoT deployment
+
 Data engineering
+
 Machine learning
+
 Analytical thinking
+
 
 👉 Few graduates have this full stack — this is what sets this work apart.
